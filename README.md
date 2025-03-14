@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Leandro
-- 🌱 I’m currently learning .net core and SQL.
-- 💞️ I’m looking to collaborate on my first project.
+
